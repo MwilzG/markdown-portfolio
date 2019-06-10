@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Gabriel](https://media.licdn.com/dms/image/C4E03AQHC08FwmYr7lg/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=h82AmmIxCfAIGjghti5vT7i9_1OISx7BzwDRAcn-lsA)
