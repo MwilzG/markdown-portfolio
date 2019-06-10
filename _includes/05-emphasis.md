@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have basic knowledge of *HTML* and *WordPress* and I am also able to create databases in __MS Access__ and __My SQL__. 
