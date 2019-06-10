@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Travelling
+2. Listening to Music
+3. Watching Movies and Series
